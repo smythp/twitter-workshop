@@ -17,12 +17,18 @@
 3. Copy your four numbers (Consumer Key, Consumer Secret, Access Token Key, and Access Token Secret) where the xxx is on each relevant line. Make sure to keep the single quotes around the numbers.  
 4. Save the my_keys.py file
 5. Make sure you have the Tweepy library for Python installed. To check, type
+
     python
-at the command line. When you see the >>> prompt, type
-    import tweepy
-If you see no output, then Tweepy is alrady installed. If you get an error, follow step 6. Once you're finished with Python, type
-    exit()
-to return to the bash shell  
+
+ at the command line. When you see the >>> prompt, type
+
+    `import tweepy`
+
+ If you see no output, then Tweepy is alrady installed. If you get an error, follow step 6. Once you're finished with Python, type
+
+    `exit()`
+
+ to return to the bash shell  
 6. If Tweepy isn't installed, run
 
 	pip install tweepy
