@@ -15,10 +15,10 @@
 1. Clone (or copy) this repository to your computer and navigate to the folder once it's downloaded.
 2. Open the my_keys.py file in your text editor.
 3. Copy your four numbers (Consumer Key, Consumer Secret, Access Token Key, and Access Token Secret) where the xxx is on each relevant line. Make sure to keep the single quotes around the numbers.
-4. Save my_keys.py
+4. Save the my_keys.py file
 5. Make sure you have the Tweepy library for Python installed. To check, type
 
-	python
+    python
 
 at the command line. When you see the >>> prompt, type
 
@@ -28,12 +28,12 @@ If you see no output, then Tweepy is alrady installed. If you get an error, foll
 
 	exit()
 
-to return to the bash shell.
+to return to the bash shell  
 6. If Tweepy isn't installed, run
 
 	pip install tweepy
 
-at the bash shell.
+at the bash shell  
 7. To test out your key, run the api.py script:
 
 	python api.py
