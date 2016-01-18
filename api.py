@@ -1,8 +1,8 @@
 # -*- coding: utf-8 -*-
 
+# tested with Python 3.4
+
 import tweepy
-import time
-import sys
 import keys
 
 # Set keys to variables. Note that they are imported from the my_keys.py file in the same folder
@@ -23,10 +23,17 @@ api = tweepy.API(auth)
 
 # Print my account name
 
-me = api.me().name
-print(me)
+# me = api.me().name
+# print(me)
 
 # Update my status
 
 ### api.update_status(status="Look at me! I'm using APIs!")
+
+# Perform a search
+
+### results = api.search(q="GCDRB")
+### for result in results:
+###     print('\n')
+###     print(result.text)
 
