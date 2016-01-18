@@ -45,4 +45,4 @@ If you see the name of your Twitter account, everything is working!
 
 ### API Resources
 
-	[Programmable Web](http://www.programmableweb.com/), a list of web-based APIs you can use in your projects.
+[Programmable Web](http://www.programmableweb.com), a list of web-based APIs you can use in your projects.
