@@ -12,10 +12,10 @@
 
 ### Accessing the API
 
-1. Clone (or copy) this repository to your computer and navigate to the folder once it's downloaded.
-2. Open the my_keys.py file in your text editor.
-3. Copy your four numbers (Consumer Key, Consumer Secret, Access Token Key, and Access Token Secret) where the xxx is on each relevant line. Make sure to keep the single quotes around the numbers.
-4. Save the my_keys.py file
+1. Clone (or copy) this repository to your computer and navigate to the folder once it's downloaded.  
+2. Open the my_keys.py file in your text editor.  
+3. Copy your four numbers (Consumer Key, Consumer Secret, Access Token Key, and Access Token Secret) where the xxx is on each relevant line. Make sure to keep the single quotes around the numbers.  
+4. Save the my_keys.py file  
 5. Make sure you have the Tweepy library for Python installed. To check, type
 
     python
