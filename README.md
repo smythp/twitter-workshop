@@ -40,9 +40,11 @@ at the bash shell to install the library.
 
 If you see the name of your Twitter account, everything is working!  
 8\. Once you have the api.py script working, open it with your editor and try uncommenting some of the other lines at the bottom. You should be able to post a tweet to your account and to perform a Twitter search.
-
+9\. Once you're comfortable connecting to the Twitter API, you can use the twitterbot.py script in this repository to create your own Twitterbot!  
 
 
 ### API Resources
 
 [Programmable Web](http://www.programmableweb.com), a list of web-based APIs you can use in your projects.
+[Twitterbot examples](http://nymag.com/following/2015/11/12-weirdest-funniest-smartest-twitter-bots.html)
+
