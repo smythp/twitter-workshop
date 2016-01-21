@@ -3,7 +3,7 @@
 # tested with Python 3.4
 
 import tweepy
-import keys
+import my_keys
 
 # Set keys to variables. Note that they are imported from the my_keys.py file in the same folder
 CONSUMER_KEY = my_keys.CONSUMER_KEY
@@ -23,8 +23,8 @@ api = tweepy.API(auth)
 
 # Print my account name
 
-# me = api.me().name
-# print(me)
+me = api.me().name
+print(me)
 
 # Update my status
 
