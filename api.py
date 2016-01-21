@@ -37,3 +37,10 @@ print(me)
 ###     print('\n')
 ###     print(result.text)
 
+# Write your search to a file (make sure the section above is uncommented)
+
+### f = open('search.txt','w')
+### for result in results:
+###     f.write(result.text) 
+### f.close()
+
