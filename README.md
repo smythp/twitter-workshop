@@ -38,7 +38,7 @@ at the bash shell to install the library.
 
 	python api.py
 
-If you see the name of your Twitter account, everything is working!
+If you see the name of your Twitter account, everything is working!\n
 8\. Once you have the api.py script working, open it with your editor and try uncommenting some of the other lines at the bottom. You should be able to post a tweet to your account and to perform a Twitter search.
 
 
