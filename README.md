@@ -25,7 +25,7 @@ at the command line. When you see the >>> prompt, type
 
     import tweepy
 
-If you see no output, then Tweepy is already installed, so skip to step #6. If you get an error, follow step #7. Once you're finished with Python, type
+If you see no output, then Tweepy is already installed, so skip to step #7. If you get an error, follow step #6. Once you're finished with Python, type
 
     exit()
 
