@@ -1,6 +1,6 @@
 ## Twitter API Workshop (GC Digital Fellows)
 
-### Getting your API key
+### Getting Your API key
 
 1\. Join Twitter [here](https://twitter.com/signup?lang=en), if you're not already a member. You should enter your phone number when prompted.  
 2\. If you already have a Twitter account, make sure you have a phone number attached to your account. (This is for verification purposes before Twitter will issue you a developer key.) To add a number, click your avatar on the top right of the Twitter home screen and click Settings. On the Settings menu, select Mobile and enter a valid phone number.  
@@ -47,7 +47,7 @@ Once you have the api.py script working, open it with your editor and try uncomm
 
 Once you're comfortable connecting to and using the Twitter API, you can use the twitterbot.py script in this repository to create your own Twitterbot! See the comments in twitterbot.py for more information.
 
-### Scraping data using the streaming API
+### Scraping Data Using the Streaming API
 
 1\. If you've followed the steps above, your developer key and token will automatically be used to authenticate to the Twitter Streaming API. If you haven't added your developer key and access token to my_keys.py, follow the instructions under "Getting your API key" above.  
 2\. Open the scrape-simple.py file in this repository.  
@@ -71,12 +71,12 @@ Python will listen for any tweets matching your search. When it detects a tweet,
 
 in the bash shell. As long as the script continues to run, data will be collected into the .csv file.  
 
-### Important note
+### Important Note
 
 Do not share your API key, secret, or access tokens with anyone, and do not publish code with your key or token visible. Treat your keys and tokens as you would a password.
 
 ### API Resources
 
 [Programmable Web](http://www.programmableweb.com), a list of web-based APIs you can use in your projects.  
-[Twitterbot examples](http://nymag.com/following/2015/11/12-weirdest-funniest-smartest-twitter-bots.html)  
+[Twitterbot Examples](http://nymag.com/following/2015/11/12-weirdest-funniest-smartest-twitter-bots.html)  
 [Tweepy Documentation](http://docs.tweepy.org/en/v3.5.0/)  
