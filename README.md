@@ -29,12 +29,12 @@ If you see no output, then Tweepy is already installed, so skip to step #7. If y
 
     exit()
 
-to return to the bash shell
+to return to the bash shell  
 6\. If Tweepy isn't installed, run
 
 	pip install tweepy
 
-at the bash shell to install the library.
+at the bash shell to install the library.  
 7\. To test out your key, run the api.py script:
 
 	python api.py
