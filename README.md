@@ -1,4 +1,4 @@
-## Twitter API Session (GC Digital Research Bootcamp)
+## Twitter API Workshop (GC Digital Fellows)
 
 ### Getting your API key
 
@@ -40,9 +40,12 @@ at the bash shell to install the library.
 	python api.py
 
 If you see the name of your Twitter account, everything is working!  
-8\. Once you have the api.py script working, open it with your editor and try uncommenting some of the other lines at the bottom. You should be able to post a tweet to your account and to perform a Twitter search.  
-9\. Once you're comfortable connecting to the Twitter API, you can use the twitterbot.py script in this repository to create your own Twitterbot!  
 
+### Creating a Twitterbot
+
+Once you have the api.py script working, open it with your editor and try uncommenting some of the other lines at the bottom. You should be able to post a tweet to your account and to perform a Twitter search.
+
+Once you're comfortable connecting to and using the Twitter API, you can use the twitterbot.py script in this repository to create your own Twitterbot! See the comments in twitterbot.py for more information.
 
 ### API Resources
 
