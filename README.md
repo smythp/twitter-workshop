@@ -25,23 +25,23 @@ at the command line. When you see the >>> prompt, type
     import tweepy
 
 If you see no output, then Tweepy is already installed, so skip to step 7. If you get an error, follow step  
-6. Once you're finished with Python, type
+6\. Once you're finished with Python, type
 
     exit()
 
  to return to the bash shell
-6\. If Tweepy isn't installed, run
+7\. If Tweepy isn't installed, run
 
 	pip install tweepy
 
 at the bash shell to install the library.
-7\. To test out your key, run the api.py script:
+8\. To test out your key, run the api.py script:
 
 	python api.py
 
 If you see the name of your Twitter account, everything is working!  
-8\. Once you have the api.py script working, open it with your editor and try uncommenting some of the other lines at the bottom. You should be able to post a tweet to your account and to perform a Twitter search.  
-9\. Once you're comfortable connecting to the Twitter API, you can use the twitterbot.py script in this repository to create your own Twitterbot!  
+9\. Once you have the api.py script working, open it with your editor and try uncommenting some of the other lines at the bottom. You should be able to post a tweet to your account and to perform a Twitter search.  
+10\. Once you're comfortable connecting to the Twitter API, you can use the twitterbot.py script in this repository to create your own Twitterbot!  
 
 
 ### API Resources
