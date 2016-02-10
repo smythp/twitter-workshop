@@ -2,8 +2,8 @@
 
 ### Getting your API key
 
-1\. Join Twitter [here](https://twitter.com/signup?lang=en), if you're not already a member. You should enter your phone number when prompted.
-2\. If you already have a Twitter account, make sure you have a phone number attached to your account. (This is for verification purposes before Twitter will issue you a developer key.) To add a number, click your avatar on the top right of the Twitter home screen and click Settings. On the Settings menu, select Mobile and enter a valid phone number.
+1\. Join Twitter [here](https://twitter.com/signup?lang=en), if you're not already a member. You should enter your phone number when prompted.  
+2\. If you already have a Twitter account, make sure you have a phone number attached to your account. (This is for verification purposes before Twitter will issue you a developer key.) To add a number, click your avatar on the top right of the Twitter home screen and click Settings. On the Settings menu, select Mobile and enter a valid phone number.  
 3\. While logged in to your Twitter account, go [here](https://dev.twitter.com/apps/new) to begin the process of getting your API key.  
 4\. Fill out the form. You will be asked for a website, but note that Twitter doesn't check if it's a real website or not as long as it's in this format http://www.xyz.com  
 5\. You'll be redirected to a new screen that shows the name you entered for your application. Click the tab at the top that says"Keys and Access Tokens"  
