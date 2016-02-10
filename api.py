@@ -28,11 +28,11 @@ print(me)
 
 # Update my status
 
-### api.update_status(status="Look at me! I'm using APIs!")
+### api.update_status(status="Look at me! I'm using APIs! #NYCDHWeek @Digital_Fellows @mkgold")
 
 # Perform a search
 
-### results = api.search(q="GCDRB")
+### results = api.search(q="#NYCDHWeek")
 ### for result in results:
 ###     print('\n')
 ###     print(result.text)
