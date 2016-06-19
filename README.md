@@ -63,8 +63,8 @@ The script will search for the word in quotes ('python' above) and return all tw
 
 	python scrape-simple.py
 
-Python will listen for any tweets matching your search. When it detects a tweet, it will print the text to he screen. Depending on your search, you may need to wait for an appropiate tweet to be posted.  
-5\. To collect more sophistocated data in a .csv file (which can be opened in Excel or LibreOffice), first open the scrape-data.py file in this repository. As above scroll to the bottom and change the last line to reflect your desired search criteria.  
+Python will listen for any tweets matching your search. When it detects a tweet, it will print the text to the screen. Depending on your search, you may need to wait for an appropriate tweet to be posted. If you search for a very common term, the script may have trouble keeping up with the output.
+5\. To collect more sophisticated data in a .csv file (which can be opened in Excel or LibreOffice), first open the scrape-data.py file in this repository. As above scroll to the bottom and change the last line to reflect your desired search criteria.  
 6\. To start the listener and begin writing data to a .csv file, run
 
     python scrape-data.py >> data.csv
